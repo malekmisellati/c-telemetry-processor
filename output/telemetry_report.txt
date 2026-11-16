@@ -1,0 +1,40 @@
+--- Valid Telemetry Records ---
+
+Device ID: 1001
+Temperature: 24.5 C
+Voltage: 3.3 V
+Status: 1
+
+Device ID: 1002
+Temperature: 28.7 C
+Voltage: 3.2 V
+Status: 1
+
+Device ID: 1005
+Temperature: 31.4 C
+Voltage: 3.3 V
+Status: 1
+
+Device ID: 1007
+Temperature: 26.8 C
+Voltage: 3.3 V
+Status: 1
+
+Device ID: 1008
+Temperature: 19.5 C
+Voltage: 3.2 V
+Status: 0
+
+--- Telemetry Statistics ---
+Total valid records: 5
+Average temperature: 26.18 C
+Average voltage: 3.26 V
+Highest temperature: 31.40 C
+Device with highest temperature: 1005
+
+--- Abnormal Reading Detection ---
+Device 1001: Normal
+Device 1002: Normal
+Device 1005: Normal
+Device 1007: Normal
+Device 1008: Device inactive 
